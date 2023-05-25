@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>IPOS Go - Appcast</title>
+        <item>
+            <title>Version 2.0.27</title>
+            <description>Minor upgrades and improvement</description>
+            <pubDate>Thu, 25 May 2023 16:11:43 +0000</pubDate>
+            <enclosure url="https://play.google.com/apps/internaltest/4699782539077742038" sparkle:version="1.0.0" sparkle:os="android" />
+        </item>
+    </channel>
+</rss>
